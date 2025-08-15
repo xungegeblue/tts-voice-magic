@@ -16,7 +16,7 @@
 
 ### 点击按钮，一键部署到 CloudFlare Workers,
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wangwangit/tts)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xungegeblue/tts-voice-magic)
 
 
 
@@ -179,7 +179,7 @@ MIT License
 
 ## 📞 联系我们
 
-关注公众号「一只会飞的旺旺」获取更多 AI 工具和技术分享：
+关注公众号「勋荣」获取更多 AI 工具和技术分享：
 
 - 最新 AI 工具推荐和使用教程
 - 前沿技术解析和实战案例  
@@ -190,4 +190,5 @@ MIT License
 
 
 **让文字开口说话，让创意更有声音！** 🎵
+
 
